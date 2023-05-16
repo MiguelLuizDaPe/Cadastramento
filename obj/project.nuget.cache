@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6411gvy7QhVhG6zZNnl/bAJkdV3szkmN1i+2KrYcr/xR01tBUIv4fdMtv7nk+8CpuvdfuaIlkT1XWKS9Mylp/Q==",
+  "success": true,
+  "projectFilePath": "/home/miguel/Projects/Curso/BancoDados/Cadastramento/Cadastramento.csproj",
+  "expectedPackageFiles": [
+    "/home/miguel/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
